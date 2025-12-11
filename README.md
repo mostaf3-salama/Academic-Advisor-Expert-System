@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Library](https://img.shields.io/badge/Library-Experta-green) ![Type](https://img.shields.io/badge/Type-Rule--Based-orange)
 
 ## 📖 Overview
-This project is an Artificial Intelligence application that functions as an **Academic Advisor**. Instead of using traditional procedural programming (nested `if-else` statements), it uses a **Rule-Based Expert System** approach.
+This project is an **Academic Advisor**. Instead of using traditional procedural programming (nested `if-else` statements), it uses a **Rule-Based Expert System** approach.
 
 The system mimics a human counselor by:
 1.  Asking the user about their interests, favorite subjects, and skills.
